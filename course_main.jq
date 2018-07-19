@@ -7,7 +7,7 @@ import module namespace my = "http://cs.gmu.edu/dgal/orderCost.jq"
   at "/Users/Nidhi/Desktop/semesterScheduling.jq";
 
 import module namespace ns = "http://cs.gmu.edu/dgal/orderAnalytics.jq"
-  at "/Users/Shravan/Desktop/course_analytics.jq";
+  at "/Users/Nidhi/Desktop/course_analytics.jq";
 
 (:import module namespace dgal = "http://mason.gmu.edu/~mnachawa/dgal.jq";:)
 
