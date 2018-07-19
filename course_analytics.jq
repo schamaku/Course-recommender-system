@@ -4,7 +4,7 @@ module namespace ns = "http://cs.gmu.edu/dgal/orderAnalytics.jq";
 
 
 (:import module namespace my = "http://cs.gmu.edu/dgal/orderAnalytics.jq"
-  at "/Users/Shravan/Desktop/semesterScheduling.jq";:)
+  at "/Users/Nidhi/Desktop/semesterScheduling.jq";:)
 
 declare function ns:courseAnalytics($planOfStudy)
 {
