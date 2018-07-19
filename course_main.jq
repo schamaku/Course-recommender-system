@@ -4,7 +4,7 @@ jsoniq version "1.0";
 
 
 import module namespace my = "http://cs.gmu.edu/dgal/orderCost.jq"
-  at "/Users/Shravan/Desktop/semesterScheduling.jq";
+  at "/Users/Nidhi/Desktop/semesterScheduling.jq";
 
 import module namespace ns = "http://cs.gmu.edu/dgal/orderAnalytics.jq"
   at "/Users/Shravan/Desktop/course_analytics.jq";
